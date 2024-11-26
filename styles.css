@@ -28,6 +28,11 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+    align-items: center;
+    justify-content: center;
+    padding: 90px 10px ;
+/*A propriedade Z-index especifica a ordem da pilha de um elemento do anúncio. Um elemento com número de ordem de empilhamento superior será exibido à frente de outro com número inferior.*/
+
 }
 
 /* Estilos para cabeçalhos */
