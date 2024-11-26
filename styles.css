@@ -12,7 +12,7 @@
     --background-color: #FFF2F2;
     --text-color: #000000;
     --error-color: #D10000;
-    --success-color: #000000;
+    --success-color: #ff0000;
     --font-family: 'Roboto', sans-serif;
 }
 
@@ -142,7 +142,7 @@ a {
 }
 
 a:hover {
-    color: #2980b9;
+    color: #b92929;
 }
 
 /* Estilos para o menu principal */
@@ -185,7 +185,7 @@ a:hover {
 }
 
 .actions a:hover {
-    background-color: #2980b9;
+    background-color: #b92929;
 }
 
 /* Estilo para o botão de voltar */
@@ -200,7 +200,7 @@ a:hover {
 }
 
 .back-button:hover {
-    background-color: #34495e;
+    background-color: #230000;
 }
 
 /* Estilos para ações na tabela */
