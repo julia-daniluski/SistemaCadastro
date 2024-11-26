@@ -7,12 +7,12 @@
 
 /* Definindo variáveis para cores e fontes */
 :root {
-    --primary-color: #3498db;
-    --secondary-color: #2c3e50;
-    --background-color: #ecf0f1;
-    --text-color: #333;
-    --error-color: #e74c3c;
-    --success-color: #2ecc71;
+    --primary-color: #D10000;
+    --secondary-color: #5A0000;
+    --background-color: #FFF2F2;
+    --text-color: #000000;
+    --error-color: #D10000;
+    --success-color: #000000;
     --font-family: 'Roboto', sans-serif;
 }
 
@@ -78,7 +78,7 @@ button {
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #D10000;
 }
 
 /* Estilos para tabelas */
@@ -167,7 +167,7 @@ a:hover {
 }
 
 .menu a:hover {
-    background-color: #2980b9;
+    background-color: #D10000;
 }
 
 /* Estilos para ações na tabela */
@@ -208,7 +208,7 @@ table td a {
     display: inline-block;
     padding: 5px 10px;
     margin: 2px;
-    background-color: #3498db;
+    background-color: #D10000;
     color: #fff;
     text-decoration: none;
     border-radius: 4px;
@@ -217,16 +217,16 @@ table td a {
 }
 
 table td a:hover {
-    background-color: #2980b9;
+    background-color: #640000;
 }
 
 /* Estilo específico para o botão Excluir */
 table td a:last-child {
-    background-color: #e74c3c;
+    background-color: #D10000;
 }
 
 table td a:last-child:hover {
-    background-color: #c0392b;
+    background-color: #640000;
 }
 
 /* ______________________________________________________________________ */
